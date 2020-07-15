@@ -18,4 +18,5 @@ Resources used
 * [Programiz](https://www.programiz.com/dsa/graph)
 * [MIT lecture notes: Unit 5: Graphs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/)
 * [Educative: Graph data stracture](https://www.educative.io/edpresso/what-is-a-graph-data-structure)
-* []()
+* [Educative: Depth first search algorithm](https://www.educative.io/edpresso/what-is-depth-first-search)
+* [Educative: Breadth first search algorithm](https://www.educative.io/edpresso/what-is-breadth-first-search)

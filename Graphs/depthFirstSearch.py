@@ -21,7 +21,7 @@ def dfs(visited, graph, node): # utilises recursion, hence the call stack
     if node not in visited: # if we haven't visited the node, then explore it
         print(node)
         visited.add(node)
-        for neighbour in graph[node]: # with recursion the loop becomes nested
+        for neighbour in graph[node]: # with recursion the loop becomes nested. We are basically exploring the neighbours
             dfs(visited, graph, neighbour)
 
 
