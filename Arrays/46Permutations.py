@@ -1,3 +1,10 @@
+"""
+Resources used:
+
+Youtube https://www.youtube.com/watch?v=KukNnoN-SoY
+
+"""
+
 class Solution:
     def permute(self, nums):
         self.ans_arr = []
